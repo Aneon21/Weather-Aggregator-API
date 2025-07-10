@@ -1,0 +1,12 @@
+spring:
+  cache:
+    type: redis
+    cache-name: weather
+  redis:
+    host: localhost
+    port: 6379
+
+openweathermap:
+  api:
+    key: 3d5e42895b87bc869f1efd71cdf1f5c8
+    url: http://api.openweathermap.org/data/2.5
