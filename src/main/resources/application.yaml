@@ -8,5 +8,5 @@ spring:
 
 openweathermap:
   api:
-    key: 3d5e42895b87bc869f1efd71cdf1f5c8
+    key: YOUR_API_KEY
     url: http://api.openweathermap.org/data/2.5
